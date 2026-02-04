@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Chat UI
 
 ![Chat UI repository thumbnail](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/chat-ui/chat-ui-2026.png)
@@ -189,6 +189,4 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
-=======
-# MindTalk-UI
->>>>>>> 8c751c66dda979b6270d5654a733492024cf7681
+
